@@ -1,0 +1,7 @@
+C:\Users\shamith\source\repos\GenericsUI\GenericsUI\bin\Debug\GenericsUI.exe.config
+C:\Users\shamith\source\repos\GenericsUI\GenericsUI\bin\Debug\GenericsUI.exe
+C:\Users\shamith\source\repos\GenericsUI\GenericsUI\bin\Debug\GenericsUI.pdb
+C:\Users\shamith\source\repos\GenericsUI\GenericsUI\obj\Debug\GenericsUI.csproj.AssemblyReference.cache
+C:\Users\shamith\source\repos\GenericsUI\GenericsUI\obj\Debug\GenericsUI.csproj.CoreCompileInputs.cache
+C:\Users\shamith\source\repos\GenericsUI\GenericsUI\obj\Debug\GenericsUI.exe
+C:\Users\shamith\source\repos\GenericsUI\GenericsUI\obj\Debug\GenericsUI.pdb

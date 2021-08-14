@@ -1,0 +1,6 @@
+C:\Users\shamith\source\repos\GenericsUI\Generics_in_classUI\bin\Debug\Generics_in_classUI.exe.config
+C:\Users\shamith\source\repos\GenericsUI\Generics_in_classUI\bin\Debug\Generics_in_classUI.exe
+C:\Users\shamith\source\repos\GenericsUI\Generics_in_classUI\bin\Debug\Generics_in_classUI.pdb
+C:\Users\shamith\source\repos\GenericsUI\Generics_in_classUI\obj\Debug\Generics_in_classUI.csproj.CoreCompileInputs.cache
+C:\Users\shamith\source\repos\GenericsUI\Generics_in_classUI\obj\Debug\Generics_in_classUI.exe
+C:\Users\shamith\source\repos\GenericsUI\Generics_in_classUI\obj\Debug\Generics_in_classUI.pdb
