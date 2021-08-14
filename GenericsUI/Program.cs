@@ -1,34 +1,37 @@
 ﻿using System;
-using System.Collections;
-
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 namespace GenericsUI
 {
-
-    class GFG
+    class Program
     {
-
-        // Driver code
-        public static void Main()
+        static void Main(string[] args)
         {
-
-            // Creating a Queue
-            Queue myQueue = new Queue();
-
-            // Inserting the elements into the Queue
-            myQueue.Enqueue("C#");
-            myQueue.Enqueue("PHP");
-            myQueue.Enqueue("Perl");
-            myQueue.Enqueue("Java");
-            myQueue.Enqueue("C");
-
-            // Displaying the count of elements
-            // contained in the Queue
-            Console.Write("Total number of elements present in the Queue are: ");
-
-            Console.WriteLine(myQueue.Count);
-
-            // Displaying the beginning element of Queue
-            Console.WriteLine("Beginning Item is: " + myQueue.Peek());
+            // Compare Integer  
+            Check<int> obj1 = new Check<int>();
+            bool intResult = obj1.Compare(2, 3);
+            // Compare String  
+            Check<string> obj2 = new Check<string>();
+            bool strResult = obj2.Compare("Ramakrishna", "Ramakrishna");
+            Console.WriteLine("Integer Comparison: {0}\nString Comparison: {1}", intResult, strResult);
+            Console.Read();
+        }
+        // Generic class to accept all types of data types  
+        class Check<UnknowDataType>
+        {
+            // Gerefic function to compare all data types  
+            public bool Compare(UnknowDataType var1, UnknowDataType var2)
+            {
+                if (var1.Equals(var2))
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
         }
     }
 }
